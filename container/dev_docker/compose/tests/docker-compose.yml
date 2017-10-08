@@ -1,0 +1,43 @@
+version: "3"
+
+services:
+
+  mysql:
+    container_name: mysql
+    build: ../../container/web_mysql
+    ports:
+     - 3306:3306
+    environment:
+     - MYSQL_ROOT_PASSWORD=blackforestmysql
+    networks:
+     - app-network
+
+  py:
+    container_name: py
+    build: ../../container/code_python
+    #command: python -u /code/backend_x/server.py
+    ports:
+     - 9999:9999
+    volumes:
+     - /Users/rb/PycharmProjects/marie/backend_x:/code
+    networks:
+     - app-network
+    links:
+     - mysql
+
+  vue:
+    container_name: vue
+    build: ../../container/web_nodejs
+    command: npm run dev
+    ports:
+     - 8080:8080
+    volumes:
+     - ../../container/web_nodejs/code/project_x:/project_x
+    links:
+     - py
+    networks:
+     - app-network
+
+networks:
+  app-network:
+    external: true

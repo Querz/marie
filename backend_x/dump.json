@@ -1,0 +1,206 @@
+{
+  "website": "http://www.offenburg.de/html/auslaenderbuero.html",
+  "rating": 2.5,
+  "utc_offset": 120,
+  "name": "Ausl\u00e4nderB\u00fcro",
+  "reference": "CmRRAAAAfUi81YyIZTBtGSIxwpwHqsBvjgZ5P3VU2tJVM_4Bn2hXBm0867JO_7JdqUwUG4BpiH1GPzNx78E4F6csE69IPH1jWUC7-LNtKf4yPu0fDOmRs4EL8YsfiM9lycKu-zIIEhBq1ChdTJj27Zznq7Bh5CBpGhTFS-o_auFs3xEJpdp6X6N1EQqD3Q",
+  "geometry": {
+	"location": {
+	  "lat": 48.469212,
+	  "lng": 7.943698299999999
+	},
+	"viewport": {
+	  "northeast": {
+		"lat": 48.4705555302915,
+		"lng": 7.945105030291502
+	  },
+	  "southwest": {
+		"lat": 48.4678575697085,
+		"lng": 7.942407069708497
+	  }
+	}
+  },
+  "adr_address": "<span class=\"street-address\">Spitalstra\u00dfe 2</span>, <span class=\"postal-code\">77652</span> <span class=\"locality\">Offenburg</span>, <span class=\"country-name\">Germany</span>",
+  "place_id": "ChIJ1Xrs6xbTlkcRIMhiBYSdTic",
+  "international_phone_number": "+49 781 822223",
+  "vicinity": "Spitalstra\u00dfe 2, Offenburg",
+  "reviews": [
+	{
+	  "rating": 1,
+	  "author_name": "\u0411\u044d\u043b\u043b\u0430 \u0411\u0435\u043d\u0446\u0435\u043b\u044c",
+	  "language": "de",
+	  "text": "Sehr sehr lange Wartezeiten!!! Nach 2 Std. warten wird man noch dumm angemacht.\nUnfreundliches WEIBLICHES Personal. M\u00e4nner sehr zuvorkommend.\nEin leid was man jedem ersparen sollte wenn man dort hin muss, war f\u00fcr mich pers\u00f6nlich ein Schock, wenn man so etwas als deutsche mitkriegt. Man f\u00fchlte sich als Mensch der 2 Klasse!!! Besondere Gr\u00fcsse an FRAU JAKOBS.\n\nDiesem Kommentar kann ich mich nur anschliessen!!!\n\nSehr lange Wartezeiten, unfreundliches Personal bis zu diskriminierend.\nEin leid was man jedem ersparen sollte wenn man dort hin muss. \nDie Mitarbeiter verwesen dort was Arbeitstempo angeht...\nMoral von der Geschicht:\nHeiratet deutsch dann k\u00f6nnen die euch nicht mehr auf der Nase rum tanzen.",
+	  "relative_time_description": "2 months ago",
+	  "author_url": "https://www.google.com/maps/contrib/101698155129239895516/reviews",
+	  "time": 1501249362,
+	  "profile_photo_url": "https://lh3.googleusercontent.com/-jdTyTm7ftiA/AAAAAAAAAAI/AAAAAAAAAAA/ACnBePbG5hbrWdiTVsERYbiIMNC8w7XVGg/s128-c0x00000000-cc-rp-mo/photo.jpg"
+	},
+	{
+	  "rating": 5,
+	  "author_name": "abd ilah",
+	  "language": "de",
+	  "text": "Seh r geehrte damen und herren \r\nBin abdelilah elmesskini\r\nDa ich bin oben genannter angelegenheit seit einem monat nicht geh\u00f6rt habe frage ich nach dem aktuellen sachstand \r\nVielen dank",
+	  "relative_time_description": "4 months ago",
+	  "author_url": "https://www.google.com/maps/contrib/100445411164668728019/reviews",
+	  "time": 1494857785,
+	  "profile_photo_url": "https://lh5.googleusercontent.com/-m5bqr8APjOg/AAAAAAAAAAI/AAAAAAAAAGo/Czx3nu_XzIk/s128-c0x00000000-cc-rp-mo/photo.jpg"
+	},
+	{
+	  "rating": 1,
+	  "author_name": "Verlegerfuxx78",
+	  "language": "de",
+	  "text": "Sehr lange Wartezeiten, unfreundliches Personal bis zu diskriminierend.\nEin leid was man jedem ersparen sollte wenn man dort hin muss. \nDie Mitarbeiter verwesen dort was Arbeitstempo angeht...\nMoral von der Geschicht:\nHeiratet deutsch dann k\u00f6nnen die euch nicht mehr auf der Nase rum tanzen.",
+	  "relative_time_description": "7 months ago",
+	  "author_url": "https://www.google.com/maps/contrib/105507076411703003392/reviews",
+	  "time": 1487231642,
+	  "profile_photo_url": "https://lh3.googleusercontent.com/-3eVIFLDEDXA/AAAAAAAAAAI/AAAAAAAAE8I/sZ5g77RjySc/s128-c0x00000000-cc-rp-mo/photo.jpg"
+	},
+	{
+	  "rating": 1,
+	  "author_name": "reza sharifipour",
+	  "language": "en",
+	  "text": "",
+	  "relative_time_description": "2 months ago",
+	  "author_url": "https://www.google.com/maps/contrib/117571536707078194495/reviews",
+	  "time": 1501136195,
+	  "profile_photo_url": "https://lh3.googleusercontent.com/-DBauJo1dGEc/AAAAAAAAAAI/AAAAAAAAAAA/ACnBePYGabBkUdpZoYw2cQGLDp7ycHV57Q/s128-c0x00000000-cc-rp-mo/photo.jpg"
+	},
+	{
+	  "rating": 5,
+	  "author_name": "Willy Wolf",
+	  "language": "en",
+	  "text": "",
+	  "relative_time_description": "11 months ago",
+	  "author_url": "https://www.google.com/maps/contrib/117106806816723290598/reviews",
+	  "time": 1478589786,
+	  "profile_photo_url": "https://lh4.googleusercontent.com/-FP-uriPOOz4/AAAAAAAAAAI/AAAAAAAADmo/5NFLUqGcgug/s128-c0x00000000-cc-rp-mo/photo.jpg"
+	}
+  ],
+  "formatted_phone_number": "0781 822223",
+  "scope": "GOOGLE",
+  "url": "https://maps.google.com/?cid=2832374406014224416",
+  "opening_hours": {
+	"weekday_text": [
+	  "Monday: 8:00 AM \u2013 12:00 PM",
+	  "Tuesday: Closed",
+	  "Wednesday: 8:00 AM \u2013 12:00 PM",
+	  "Thursday: 8:00 AM \u2013 6:00 PM",
+	  "Friday: 8:00 AM \u2013 12:00 PM",
+	  "Saturday: Closed",
+	  "Sunday: Closed"
+	],
+	"open_now": false,
+	"periods": [
+	  {
+		"close": {
+		  "day": 1,
+		  "time": "1200"
+		},
+		"open": {
+		  "day": 1,
+		  "time": "0800"
+		}
+	  },
+	  {
+		"close": {
+		  "day": 3,
+		  "time": "1200"
+		},
+		"open": {
+		  "day": 3,
+		  "time": "0800"
+		}
+	  },
+	  {
+		"close": {
+		  "day": 4,
+		  "time": "1800"
+		},
+		"open": {
+		  "day": 4,
+		  "time": "0800"
+		}
+	  },
+	  {
+		"close": {
+		  "day": 5,
+		  "time": "1200"
+		},
+		"open": {
+		  "day": 5,
+		  "time": "0800"
+		}
+	  }
+	]
+  },
+  "address_components": [
+	{
+	  "long_name": "2",
+	  "types": [
+		"street_number"
+	  ],
+	  "short_name": "2"
+	},
+	{
+	  "long_name": "Spitalstra\u00dfe",
+	  "types": [
+		"route"
+	  ],
+	  "short_name": "Spitalstra\u00dfe"
+	},
+	{
+	  "long_name": "Offenburg",
+	  "types": [
+		"locality",
+		"political"
+	  ],
+	  "short_name": "Offenburg"
+	},
+	{
+	  "long_name": "Ortenaukreis",
+	  "types": [
+		"administrative_area_level_3",
+		"political"
+	  ],
+	  "short_name": "Ortenaukreis"
+	},
+	{
+	  "long_name": "Freiburg",
+	  "types": [
+		"administrative_area_level_2",
+		"political"
+	  ],
+	  "short_name": "Freiburg"
+	},
+	{
+	  "long_name": "Baden-W\u00fcrttemberg",
+	  "types": [
+		"administrative_area_level_1",
+		"political"
+	  ],
+	  "short_name": "BW"
+	},
+	{
+	  "long_name": "Germany",
+	  "types": [
+		"country",
+		"political"
+	  ],
+	  "short_name": "DE"
+	},
+	{
+	  "long_name": "77652",
+	  "types": [
+		"postal_code"
+	  ],
+	  "short_name": "77652"
+	}
+  ],
+  "formatted_address": "Spitalstra\u00dfe 2, 77652 Offenburg, Germany",
+  "id": "1279e8f3296b0eccd2b662b86649a21caa5d8c6d",
+  "types": [
+	"point_of_interest",
+	"establishment"
+  ],
+  "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/civic_building-71.png"
+}
